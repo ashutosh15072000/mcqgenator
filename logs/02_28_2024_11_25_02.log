@@ -1,0 +1,2 @@
+[2024-02-28 11:25:24,957] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-02-28 11:25:26,221] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
