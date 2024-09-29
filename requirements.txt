@@ -6,3 +6,4 @@ PyPDF2
 datetime
 logging
 langchain_community
+langchain_groq

@@ -4,6 +4,7 @@ from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.chains import SequentialChain
 from langchain_community.callbacks import get_openai_callback
+from langchain_groq import ChatGroq
 import os 
 import json
 import pandas as pd
@@ -13,11 +14,11 @@ from dotenv import load_dotenv
 ## Load environment from .env
 load_dotenv()
 
-key=os.getenv("OPENAI_API_KEY")
+key=os.getenv("GROQ_API_KEY")
 
 from langchain_community.chat_models import ChatOpenAI
 
-llm=ChatOpenAI(openai_api_key=key,model_name='gpt-3.5-turbo',temperature=0.7)
+llm=ChatGroq(groq_api_key=key,model_name='llama-3.1-70b-versatile',temperature=0.7)
 
 
 TEMPLATE="""
