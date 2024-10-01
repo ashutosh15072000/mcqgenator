@@ -1,7 +1,9 @@
 
 ## MCQ Generator
 This repository contains a script for automatically generating Multiple Choice Questions (MCQs) from input text files. It can be used to generate questions for quizzes, assessments, and educational purposes.
-Link:https://huggingface.co/spaces/ashu2000/MCQGENERATOR
+
+
+- Link:https://huggingface.co/spaces/ashu2000/MCQGENERATOR
 ![](IMG/main_page.jpg)
 ![](IMG/MCQ_Result.jpg)
 
