@@ -14,6 +14,22 @@ This repository contains a script for automatically generating Multiple Choice Q
 - Export questions in various formats text for easy integration into different platforms.
 - Supports customization of question difficulty and type.
 
+## Use Cases:
+#### Educational Platforms:
+
+Automatically generate quizzes for students based on textbook content or lecture notes.
+#### E-learning Content Creation:
+
+Aid in creating practice tests and assessment materials for online learning platforms.
+#### Corporate Training:
+
+Create assessments for employee training programs.
+#### Language Learning:
+
+Generate MCQs to reinforce vocabulary, grammar, and comprehension for language learners.
+
+
+
 ## Installation
 To use the MCQ Generator, clone the repository and install the required dependencies.
 
