@@ -16,17 +16,17 @@ This repository contains a script for automatically generating Multiple Choice Q
 - Supports customization of question difficulty and type.
 ---
 ## 🚀 Use Cases:
+
 **Educational Platforms:**
-
 - Automatically generate quizzes for students based on textbook content or lecture notes.
+
 **E-learning Content Creation:**
-
 - Aid in creating practice tests and assessment materials for online learning platforms.
+
 **Corporate Training:**
-
 - Create assessments for employee training programs.
-**Language Learning:**
 
+**Language Learning:**
 - Generate MCQs to reinforce vocabulary, grammar, and comprehension for language learners.
 
 ---
