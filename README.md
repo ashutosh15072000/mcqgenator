@@ -4,7 +4,7 @@ This repository contains a script for automatically generating Multiple Choice Q
 
 ---
 
-🌐 **Live App**:[MCQ GENERATOR - Streamlit]https://huggingface.co/spaces/ashu2000/MCQ_GENERATOR]
+🌐 **Live App**:[MCQ GENERATOR - Streamlit](https://huggingface.co/spaces/ashu2000/MCQ_GENERATOR)
 ![](IMG/main_page.jpg)
 ![](IMG/MCQ_Result.jpg)
 *Screenshot of the MCQ APP*
@@ -18,16 +18,16 @@ This repository contains a script for automatically generating Multiple Choice Q
 ## 🚀 Use Cases:
 **Educational Platforms:**
 
-Automatically generate quizzes for students based on textbook content or lecture notes.
+- Automatically generate quizzes for students based on textbook content or lecture notes.
 **E-learning Content Creation:**
 
-Aid in creating practice tests and assessment materials for online learning platforms.
+- Aid in creating practice tests and assessment materials for online learning platforms.
 **Corporate Training:**
 
-Create assessments for employee training programs.
+- Create assessments for employee training programs.
 **Language Learning:**
 
-Generate MCQs to reinforce vocabulary, grammar, and comprehension for language learners.
+- Generate MCQs to reinforce vocabulary, grammar, and comprehension for language learners.
 
 ---
 
@@ -47,12 +47,12 @@ cd mcqgenerator
 ```bash
 pip install -r requirements.txt
 ```
----
 ## Options
 - input: Path to the input text file or source.
 - output: Path to the output file .
 - num-questions: Number of questions to generate (optional).
 - difficulty: Difficulty level of the questions (easy, medium, hard).
+
 ---
 ## 📚 API Reference
 
